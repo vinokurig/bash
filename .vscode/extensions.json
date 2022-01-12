@@ -4,6 +4,7 @@
     "recommendations": [
         "rogalmic.bash-debug",
         "timonwong.shellcheck",
-        "mads-hartmann.bash-ide-vscode"
+        "mads-hartmann.bash-ide-vscode",
+        "redhat/vscode-openshift-connector"
     ]
 }
